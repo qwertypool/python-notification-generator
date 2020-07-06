@@ -13,6 +13,6 @@ if __name__ == "__main__":
             title = "Please take your medicine!!",
             message = "Taking the prescirbed medicine at time is very imp for a faster recovery!!",
             #app_icon= "E:\python_notif\drugs2.png",
-            timeout=5
+            timeout=5           #give the required time for scheduling
         )
         time.sleep(60*60*12)
